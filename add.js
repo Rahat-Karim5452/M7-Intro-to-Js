@@ -11,4 +11,4 @@ console.log(totalPrice);
 const firstNumber = 0.1;
 const secontNumber = 0.3;
 const total = firstNumber + secontNumber;
-console.log(total)
+console.log(total);

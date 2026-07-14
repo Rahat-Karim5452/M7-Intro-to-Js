@@ -5,4 +5,4 @@ let nm = "Abc";
 const isRich = false;
 console.log(isRich);
 console.log(typeof isRich);
-console.log(typeof qn)
+console.log(typeof qn);
